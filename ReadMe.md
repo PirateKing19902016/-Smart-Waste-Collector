@@ -1,7 +1,9 @@
 
 # **Literature Review**
   1. [FLOATING TRASH SKIMMERS](https://www.cleantecinfra.com/trash-skimming/)![](https://static1.squarespace.com/static/5846d2c0e6f2e12d64d4ca6d/t/585a7499cd0f681882fc63a2/1482323098617/Ganga+-+Sangam.jpg)
-    - Collects floating trash and litter such as plastics, bottles, religious waste etc
+
+
+    - Collects floating trash and litter such as plastics, bottles, religious waste etc.
     - Gates on either side of collection head guide material towards conveyor and then close to trap the material
 
   2. [AMPHIBIOUS EXCAVATORS](https://www.cleantecinfra.com/desilting/)![](https://i.ytimg.com/vi_webp/bpEbv9kxAmY/maxresdefault.webp)
